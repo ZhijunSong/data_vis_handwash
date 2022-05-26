@@ -1,0 +1,187 @@
+[
+   {
+      "Date":"11/17",
+      "Route":[
+         {
+            "loc":"At Home",
+            "sanitizer_used":0,
+            "lat":40.744308,
+            "long":-73.941856
+         },
+         {
+            "loc":"Metro",
+            "sanitizer_used":3,
+            "lat":40.744308,
+            "long":-73.941856
+         },
+         {
+            "loc":"East Village",
+            "sanitizer_used":2,
+            "lat":40.727753,
+            "long":-73.986696
+         },
+         {
+            "loc":"Get Home",
+            "sanitizer_used":2,
+            "lat":40.744308,
+            "long":-73.941856
+         }
+      ]
+   },
+   {
+      "Date":"11/18",
+      "Route":[
+         {
+            "loc":"At Home",
+            "sanitizer_used":0,
+            "lat":40.744308,
+            "long":-73.941856
+         },
+         {
+            "loc":"Food Delivery",
+            "sanitizer_used":1,
+            "lat":40.744308,
+            "long":-73.941856
+         },
+         {
+            "loc":"Check Mail",
+            "sanitizer_used":1,
+            "lat":40.744308,
+            "long":-73.941856
+         }
+      ]
+   },
+   {
+      "Date":"11/19",
+      "Route":[
+         {
+            "loc":"At Home",
+            "sanitizer_used":0,
+            "lat":40.744308,
+            "long":-73.941856
+         },
+         {
+            "loc":"Metro",
+            "sanitizer_used":3,
+            "lat":40.744308,
+            "long":-73.941856
+         },
+         {
+            "loc":"DMV",
+            "sanitizer_used":2,
+            "lat":40.753685,
+            "long":-73.999161
+         },
+         {
+            "loc":"Metro",
+            "sanitizer_used":2,
+            "lat":40.749780,
+            "long":-73.992869
+         },
+         {
+            "loc":"Sky",
+            "sanitizer_used":2,
+            "lat":40.761460,
+            "long":-73.998773
+         },
+         {
+            "loc":"Supermarket",
+            "sanitizer_used":2,
+            "lat":40.717616,
+            "long":-73.996038
+         },
+         {
+            "loc":"Brooklyn",
+            "sanitizer_used":2,
+            "lat":40.736445,
+            "long":-73.959394
+         },
+         {
+            "loc":"Hyden",
+            "sanitizer_used":2,
+            "lat":40.747689,
+            "long":-73.942323
+         },
+         {
+            "loc":"Get Home",
+            "sanitizer_used":2,
+            "lat":40.744308,
+            "long":-73.941856
+         }
+      ]
+   },
+   {
+      "Date":"11/20",
+      "Route":[
+         {
+            "loc":"At Home",
+            "sanitizer_used":0,
+            "lat":40.744308,
+            "long":-73.941856
+         },
+         {
+            "loc":"Food Delivery",
+            "sanitizer_used":1,
+            "lat":40.744308,
+            "long":-73.941856
+         }
+      ]
+   },
+   {
+      "Date":"11/21",
+      "Route":[
+         {
+            "loc":"At Home",
+            "sanitizer_used":0,
+            "lat":40.744308,
+            "long":-73.941856
+         },
+         {
+            "loc":"Resturant Raku",
+            "sanitizer_used":3,
+            "lat":40.727784,
+            "long":-73.984861
+         },
+         {
+            "loc":"Soho",
+            "sanitizer_used":3,
+            "lat":40.723503,
+            "long":-74.000592
+         },
+         {
+            "loc":"Deluxe Supermarket",
+            "sanitizer_used":3,
+            "lat":40.718965,
+            "long":-73.995920
+         },
+         {
+            "loc":"Get Home",
+            "sanitizer_used":3,
+            "lat":40.744308,
+            "long":-73.941856
+         }
+      ]
+   },
+   {
+      "Date":"11/22",
+      "Route":[
+         {
+            "loc":"At Home",
+            "sanitizer_used":0,
+            "lat":40.744308,
+            "long":-73.941856
+         }
+      ]
+   },
+   {
+      "Date":"11/23",
+      "Route":[
+         {
+            "loc":"At Home",
+            "sanitizer_used":0,
+            "lat":40.744308,
+            "long":-73.941856
+         }
+      ]
+   }
+]
